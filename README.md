@@ -14,10 +14,19 @@
 <!-- TABLE OF CONTENTS -->
 
 <details>
-    <summary><b>Table of Contents</b></summary>
-  <ol>
+    <summary><b>Table of Contents</b> (Click to see more)</summary>
+  <ol type = "a">
     <li> <a href="#about-the-project">About The Project</a> </li>
     <li> <a href="#features">Features</a> </li>
+      <ol type = "i">
+          <li> <a href="#about-the-project">OAuth Google login</a></li>
+          <li> <a href="#about-the-project">Search</a></li>
+          <li> <a href="#about-the-project">Create, like & delete posts</a></li>
+          <li> <a href="#about-the-project">Comments</a></li>
+          <li> <a href="#about-the-project">Recommendations</a></li>
+          <li> <a href="#about-the-project">Pagination</a></li>
+          <li> <a href="#about-the-project">Static Page without login</a></li>
+      </ol>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -41,32 +50,57 @@
 ## Features
   
   <p>
-➢ a
+    
+  &#10687; `OAuth Google login`
+    <ul type = "square">
+        <li>We can create an account by using our Email Id or the Google Sign In option.</li>
+        <li>OAuth Google login is added to enhance user experience.</li>
+    </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Sign%20In.png" align="center">
-  <br>
-➢ 
+    
+ &#10687; `Search`
+    <ul type = "square">
+        <li>To search a particular post from the application, a search bar is provided on top right corner.</li>
+        <li>We can search a particular post by its name or by its tag.</li>
+    </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Search.png" align="center">
-  <br>
-➢ 
+  
+ &#10687; `Create, like & delete posts`
+    <ul type = "square">
+        <li>We can create an account either by using our Email Id or the Google Sign In option.</li>
+        <li>OAuth Google login is added to enhance user experience.</li>
+    </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Like%20%26%20Delete.png" align="center">
-  <br>
-➢ 
+  
+ &#10687; `Comments`
+    <ul type = "square">
+        <li>We can create an account either by using our Email Id or the Google Sign In option.</li>
+        <li>OAuth Google login is added to enhance user experience.</li>
+    </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Comments.png" align="center">
-  <br>
-➢ 
+  
+ &#10687; `Recommendations`
+    <ul type = "square">
+        <li>We can create an account either by using our Email Id or the Google Sign In option.</li>
+        <li>OAuth Google login is added to enhance user experience.</li>
+    </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Recommend.png" align="center">
-  <br>
-➢ 
+  
+ &#10687; `Pagination`
+    <ul type = "square">
+        <li>We can create an account either by using our Email Id or the Google Sign In option.</li>
+        <li>OAuth Google login is added to enhance user experience.</li>
+    </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Pagination.png" align="center">
-  <br>
-➢ 
+  
+ &#10687; `Static Page without login`
+    <ul type = "square">
+        <li>We can create an account either by using our Email Id or the Google Sign In option.</li>
+        <li>OAuth Google login is added to enhance user experience.</li>
+    </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Logout.png" align="center">
-  <br>
 </p>
-   
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+   <p align="right">(<a href="#top">back to top</a>)</p>
 
 <div id="contributing"></div>
 

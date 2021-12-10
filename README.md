@@ -41,17 +41,29 @@
 ## Features
   
   <p>
-➢ 
+➢ a
+    <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Sign%20In.png" align="center">
   <br>
 ➢ 
+    <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Search.png" align="center">
   <br>
 ➢ 
+    <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Like%20%26%20Delete.png" align="center">
   <br>
 ➢ 
-    </p>
-   <image src = "https://github.com/Raja58/ProShop-eCommerce/blob/main/Screenshot%20(611).png" align="center">
-    <br>
-  <image src = "https://github.com/Raja58/ProShop-eCommerce/blob/main/Screenshot%20(610).png" align="center">
+    <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Comments.png" align="center">
+  <br>
+➢ 
+    <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Recommend.png" align="center">
+  <br>
+➢ 
+    <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Pagination.png" align="center">
+  <br>
+➢ 
+    <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Logout.png" align="center">
+  <br>
+</p>
+   
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -94,7 +106,11 @@ Thanks once again!
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-Special Thanks to <b>Vigneshwaran <i>(Developer @ Oracle)</i></b> for his constant support and guidance to this project.
-
+        
+<p> <b>Special Thanks to:</b> </p>
+   <ol>
+    <li><b>Vigneshwaran <i>(Developer @ Oracle)</i></b> for his constant support and guidance to this project. </li>
+    <li>  </li>
+  </ol>
 
 <p align="right">(<a href="#top">back to top</a>)</p>

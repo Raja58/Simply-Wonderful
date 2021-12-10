@@ -17,8 +17,7 @@
     <summary><b>Table of Contents</b></summary>
   <ol>
     <li> <a href="#about-the-project">About The Project</a> </li>
-    <li> <a href="#unique-features">Unique features</a> </li>
-    <li> <a href="#future-scope">Future Scope</a> </li>
+    <li> <a href="#features">Features</a> </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -37,9 +36,9 @@
 ✓ Accomplished dynamic featureslike <b><i>search, pagination & recommendations</b></i>. <br><br>
 <b>Tech Stack used</b> : MongoDB, Express JS, React JS, Node JS.
 </p>
-<div id="unique-features"></div>
+<div id="features"></div>
 
-## Unique features
+## Features
   
   <p>
 ➢ 

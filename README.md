@@ -9,8 +9,6 @@
   <h1 align="center"> <a href = "https://simplywonderful1728.herokuapp.com/posts">Simply Wonderful</a></h1>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 
 <details>
@@ -53,10 +51,11 @@
     
   &#10687; `OAuth Google login`
     <ul type = "square">
-        <li>We can create an account by using our Email Id or the Google Sign In option.</li>
+        <li>We can create an account using our Email Id or the Google Sign In option.</li>
         <li>OAuth Google login is added to enhance user experience.</li>
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Sign%20In.png" align="center">
+    <hr>
     
  &#10687; `Search`
     <ul type = "square">
@@ -64,35 +63,41 @@
         <li>We can search a particular post by its name or by its tag.</li>
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Search.png" align="center">
-  
+  <hr>
+        
  &#10687; `Create, like & delete posts`
     <ul type = "square">
-        <li>We can create an account either by using our Email Id or the Google Sign In option.</li>
-        <li>OAuth Google login is added to enhance user experience.</li>
+        <li>After logging in, we can create a new post by giving the title, content, tag & image.</li>
+        <li>We can give a like to any of the posts in the application.</li>
+        <li>Only the creator of a particular post can delete the post.</li>
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Like%20%26%20Delete.png" align="center">
-  
+  <hr>
+        
  &#10687; `Comments`
     <ul type = "square">
-        <li>We can create an account either by using our Email Id or the Google Sign In option.</li>
-        <li>OAuth Google login is added to enhance user experience.</li>
+        <li>A comment box is provided for each post to comment about the content.</li>
+        <li>Users can even comment anonymously.</li>
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Comments.png" align="center">
-  
+  <hr>
+        
  &#10687; `Recommendations`
     <ul type = "square">
         <li>We can create an account either by using our Email Id or the Google Sign In option.</li>
         <li>OAuth Google login is added to enhance user experience.</li>
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Recommend.png" align="center">
-  
+  <hr>
+        
  &#10687; `Pagination`
     <ul type = "square">
-        <li>We can create an account either by using our Email Id or the Google Sign In option.</li>
-        <li>OAuth Google login is added to enhance user experience.</li>
+        <li>Pagination helps display the posts on multiple pages within one web page.</li>
+        <li>It also helps to improve the app's appearance and the user experience.</li>
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Pagination.png" align="center">
-  
+  <hr>
+        
  &#10687; `Static Page without login`
     <ul type = "square">
         <li>We can create an account either by using our Email Id or the Google Sign In option.</li>

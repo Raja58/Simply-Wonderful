@@ -39,7 +39,7 @@
 ## About The Project
 <p>
 ✓ Built a responsive social media website with <b><i>users, posts, likes & comments</b></i>. <br>
-✓ Added <i>user authentication</i> using <b><i>OAuth Google login</b></i> forthe user’s credibility. <br>
+✓ Added <i>user authentication</i> using <b><i>OAuth Google login</b></i> for user’s credibility. <br>
 ✓ Accomplished dynamic featureslike <b><i>search, pagination & recommendations</b></i>. <br><br>
 <b>Tech Stack used</b> : MongoDB, Express JS, React JS, Node JS.
 </p>

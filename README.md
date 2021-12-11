@@ -52,8 +52,8 @@
     
   &#10687; `OAuth Google login`
     <ul type = "square">
-        <li>We can create an account using our Email Id or the Google Sign In option.</li>
-        <li>OAuth Google login is added to enhance user experience.</li>
+    <li>We can create an account using our <b>Email Id</b> or the <b>Google Sign In</b> option.</li>
+    <li><i>OAuth Google login</i> is added to enhance user experience.</li>
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Sign%20In.png" align="center">
     <hr>
@@ -62,7 +62,7 @@
  &#10687; `Search`
     <ul type = "square">
         <li>To search a particular post from the application, a search bar is provided on top right corner.</li>
-        <li>We can search a particular post by its name or by its tag.</li>
+        <li>We can search a particular post by its <b>name</b> or by its <b>tag</b>.</li>
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Search.png" align="center">
   <hr>
@@ -70,9 +70,9 @@
         
  &#10687; `Create, like & delete posts`
     <ul type = "square">
-        <li>After logging in, we can create a new post by giving the title, content, tag & image.</li>
+        <li>After logging in, we can create a new post by giving the <i>title, content, tag & image</i>.</li>
         <li>We can give a like to any of the posts in the application.</li>
-        <li>Only the creator of a particular post can delete the post.</li>
+        <li><i>Only the creator of a particular post can delete the post.</i></li>
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Like%20%26%20Delete.png" align="center">
         <p align="right">(<a href="#top">back to top</a>)</p>
@@ -82,7 +82,7 @@
  &#10687; `Comments`
     <ul type = "square">
         <li>A comment box is provided for each post to comment about the content.</li>
-        <li>Users can even comment anonymously.</li>
+        <li><i>Users can even comment <b>anonymously</b>.</i></li>
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Comments.png" align="center">
   <hr>
@@ -108,8 +108,8 @@
         
  &#10687; `Static Page without login`
     <ul type = "square">
-        <li>We can visit the application and access all the posts without logging into our account.</li>
-        <li>The website looks static as we logged out, and we can't create, like or delete any posts.</li>
+        <li>We can visit the application and access all the posts <i>without logging into our account.</i></li>
+        <li>The <i>website looks <b>static</b></i> as we <b>logged out</b>, and <b><i>we can't create, like or delete any posts</b>.</i></li>
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Logout.png" align="center">
 </p>

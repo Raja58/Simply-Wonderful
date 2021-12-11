@@ -17,13 +17,13 @@
     <li> <a href="#about-the-project">About The Project</a> </li>
     <li> <a href="#features">Features</a> </li>
       <ol type = "i">
-          <li> <a href="#about-the-project">OAuth Google login</a></li>
-          <li> <a href="#about-the-project">Search</a></li>
-          <li> <a href="#about-the-project">Create, like & delete posts</a></li>
-          <li> <a href="#about-the-project">Comments</a></li>
-          <li> <a href="#about-the-project">Recommendations</a></li>
-          <li> <a href="#about-the-project">Pagination</a></li>
-          <li> <a href="#about-the-project">Static Page without login</a></li>
+          <li> <a href="#login">OAuth Google login</a></li>
+          <li> <a href="#search">Search</a></li>
+          <li> <a href="#cld">Create, like & delete posts</a></li>
+          <li> <a href="#comments">Comments</a></li>
+          <li> <a href="#recommendations">Recommendations</a></li>
+          <li> <a href="pagination">Pagination</a></li>
+          <li> <a href="#withoutLogin">Static Page without login</a></li>
       </ol>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -48,6 +48,7 @@
 ## Features
   
   <p>
+    <div id="login"></div>
     
   &#10687; `OAuth Google login`
     <ul type = "square">
@@ -56,6 +57,7 @@
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Sign%20In.png" align="center">
     <hr>
+    <div id="search"></div>
     
  &#10687; `Search`
     <ul type = "square">
@@ -64,6 +66,7 @@
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Search.png" align="center">
   <hr>
+        <div id="cld"></div>
         
  &#10687; `Create, like & delete posts`
     <ul type = "square">
@@ -72,7 +75,9 @@
         <li>Only the creator of a particular post can delete the post.</li>
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Like%20%26%20Delete.png" align="center">
+        <p align="right">(<a href="#top">back to top</a>)</p>
   <hr>
+        <div id="comments"></div>
         
  &#10687; `Comments`
     <ul type = "square">
@@ -81,6 +86,7 @@
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Comments.png" align="center">
   <hr>
+        <div id="recommendations"></div>
         
  &#10687; `Recommendations`
     <ul type = "square">
@@ -89,6 +95,7 @@
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Recommend.png" align="center">
   <hr>
+        <div id="pagination"></div>
         
  &#10687; `Pagination`
     <ul type = "square">
@@ -97,6 +104,7 @@
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Pagination.png" align="center">
   <hr>
+        <div id="withoutLogin"></div>
         
  &#10687; `Static Page without login`
     <ul type = "square">

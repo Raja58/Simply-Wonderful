@@ -91,7 +91,7 @@
  &#10687; `Recommendations`
     <ul type = "square">
         <li>Recommendations are the most fantastic features added to this application to enhance the user experience.</li>
-        <li>Once we open a post at the bottom of the current page, a few recommended posts are displayed according to the tags.</li>
+        <li>Once we open a post at the bottom recommended posts are displayed according to the tags.</li>
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Recommend.png" align="center">
   <hr>
@@ -157,7 +157,7 @@ Thanks once again!
 <p> <b>Special Thanks to:</b> </p>
    <ol>
     <li><b>Vigneshwaran <i>(Developer @ Oracle)</i></b> for his constant support and guidance to this project. </li>
-    <li>  </li>
+    <li><b>Murarry <i>(SDE @ Bank of New York)</i></b> for his help and support during Troubleshooting & Conflict resolution.</li>
   </ol>
 
 <p align="right">(<a href="#top">back to top</a>)</p>

@@ -90,8 +90,8 @@
         
  &#10687; `Recommendations`
     <ul type = "square">
-        <li>We can create an account either by using our Email Id or the Google Sign In option.</li>
-        <li>OAuth Google login is added to enhance user experience.</li>
+        <li>Recommendations are the most fantastic features added to this application to enhance the user experience.</li>
+        <li>Once we open a post at the bottom of the current page, a few recommended posts are displayed according to the tags.</li>
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Recommend.png" align="center">
   <hr>
@@ -108,8 +108,8 @@
         
  &#10687; `Static Page without login`
     <ul type = "square">
-        <li>We can create an account either by using our Email Id or the Google Sign In option.</li>
-        <li>OAuth Google login is added to enhance user experience.</li>
+        <li>We can visit the application and access all the posts without logging into our account.</li>
+        <li>The website looks static as we logged out, and we can't create, like or delete any posts.</li>
     </ul>
     <image src = "https://github.com/Raja58/Simply-Wonderful/blob/main/Images/Logout.png" align="center">
 </p>
